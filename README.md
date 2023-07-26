@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=shellyannissa&show_icons=true&locale=en" alt="dhwanish-3" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa&" alt="shellyannissa29" /></p>
+
+<p 
+  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanish-3&show_icons=true&locale=en&layout=compact" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa&" alt="shellyannissa29" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shellyannissa" alt="shellyannissa" /></a> </p>
 
