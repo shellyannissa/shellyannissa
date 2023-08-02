@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa&" alt="shellyannissa29" /></p>
 </p>
 
-</p>
+<p>
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact" />
 <a align ="right" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shellyannissa" alt="shellyannissa" /></a></p>
