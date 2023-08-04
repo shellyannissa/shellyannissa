@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><p align="center" ><img  src="https://github-readme-stats.vercel.app/api?username=shellyannissa&show_icons=true&locale=en" alt="shellyannissa29" />
+<p><p align="left" ><img  src="https://github-readme-stats.vercel.app/api?username=shellyannissa&show_icons=true&locale=en" alt="shellyannissa29" />
   
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa&" alt="shellyannissa29" /></p>
 </p>
