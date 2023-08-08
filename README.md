@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 <p>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact" />
 <a align ="right" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shellyannissa" alt="shellyannissa" /></a></p>
 
