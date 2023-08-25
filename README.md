@@ -16,7 +16,7 @@ Here are some ideas to get you started
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- Guess what you are working on 
+- Guess what you are working 
 
 -->
 <!--
