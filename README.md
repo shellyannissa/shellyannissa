@@ -20,12 +20,10 @@ Here are some ideas to get you started
 
 -->
 <!--
-<p align="left" ><img  src="https://github-readme-stats.vercel.app/api?username=shellyannissa&show_icons=true&locale=en" alt="shellyannissa29" />
+<p align="left" ><img  src="https://github-readme-stats.vercel.app/api?username=shellyannissa&theme=onedark&show_icons=true&locale=en" alt="shellyannissa29" />
   -->
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa&" alt="shellyannissa29" /></p>
-</p>
-
-<p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shellyannissa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact" />
 <a align ="right" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shellyannissa" alt="shellyannissa" /></a></p>
