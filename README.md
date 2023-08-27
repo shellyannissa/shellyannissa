@@ -25,17 +25,16 @@ Here are some ideas to get you started
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=shellyannissa&theme=onedark&show_icons=true&locale=en" alt="shellyannissa29" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact" />
   </div>
 
+
+  
   <div style="flex: 1;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa" alt="shellyannissa29" />
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact" />
-  </div>
 
   <div style="flex: 1;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
