@@ -18,13 +18,31 @@ Here are some ideas to get you started
 - 😄 Pronouns: he/him
 - Guess what you are working 
 
--->
-<!--
-<p align="left" ><img  src="https://github-readme-stats.vercel.app/api?username=shellyannissa&theme=onedark&show_icons=true&locale=en" alt="shellyannissa29" />
-  -->
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa&" alt="shellyannissa29" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=shellyannissa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact" />
-<a align ="right" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shellyannissa" alt="shellyannissa" /></a></p>
+
+
+-->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shellyannissa&theme=onedark&show_icons=true&locale=en" alt="shellyannissa29" />
+  </div>
+
+  <div style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa" alt="shellyannissa29" />
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact" />
+  </div>
+
+  <div style="flex: 1;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=shellyannissa&theme=onedark&row=1" alt="shellyannissa" />
+    </a>
+  </div>
+</div>
+
+
 
