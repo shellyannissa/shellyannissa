@@ -1,7 +1,7 @@
 
 <p align="center">
   <h3 align="center">Hi there 👋</h3>
-  As an engineering student 🧑‍🎓 with a profound passion for machine learning, I am eager to leverage my skillset to address practical challenges and find innovative solutions for everyday problems. I am deeply motivated to apply my skillset to make a meaningful impact in various domains and contribute to the advancement of technology ,society.
+  As an engineering student 🧑‍🎓 with a profound passion for machine learning, I am eager to leverage my skillset to address practical challenges and find innovative solutions for everyday problems. I am deeply motivated to apply my skillset to make a meaningful impact in various domains and contribute to the advancement of society.
 </p>
 
 <!--
