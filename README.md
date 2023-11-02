@@ -14,7 +14,7 @@ Here are some ideas to get you started
 - 👯 I’m looking to collaborate on ..
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ..
+- 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - Guess what you are working 
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started
 
   
   <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa" alt="shellyannissa29" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa&theme=onedark" alt="shellyannissa29" />
   </div>
 </div>
 
