@@ -1,7 +1,6 @@
-
 <p align="center">
   <h3 align="center">Hi there 👋</h3>
-  As an engineering student 🧑‍🎓 with a profound passion for machine learning, I am eager to leverage my skillset to address practical challenges and find innovative solutions for everyday problems. I am deeply motivated to apply my skillset to make a meaningful impact in various domains and contribute to the advancement of society.
+  Love to collaborate. Willing to adapt. What more could possibly be expected :)
 </p>
 
 <!--
@@ -16,7 +15,7 @@ Here are some ideas to get you started
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- Guess what you are working 
+- Guess what you are working
 
 
 
@@ -28,13 +27,10 @@ Here are some ideas to get you started
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact" />
   </div>
 
-
-  
-  <div style="flex: 1;">
+  <div style="flex: 2.5;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa&theme=onedark" alt="shellyannissa29" />
   </div>
 </div>
-
 
   <div style="flex: 1;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -42,6 +38,3 @@ Here are some ideas to get you started
     </a>
   </div>
 </div>
-
-
-
