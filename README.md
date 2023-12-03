@@ -1,6 +1,8 @@
 <p align="center">
-  <h3 align="center">Hi there 👋</h3>
+
   Love to collaborate. Willing to adapt. What more could possibly be expected :)
+
+  
 </p>
 
 <!--
@@ -21,20 +23,12 @@ Here are some ideas to get you started
 
 
 -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shellyannissa&theme=onedark&show_icons=true&locale=en" alt="shellyannissa29" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact" />
-  </div>
-
-  <div style="flex: 2.5;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa&theme=onedark" alt="shellyannissa29" />
-  </div>
-</div>
-
-  <div style="flex: 1;">
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shellyannissa&theme=onedark"
+     alt="shellyannissa29" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shellyannissa&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shellyannissa&theme=onedark&show_icons=true&locale=en&line_height=29&include_all_commits&rank_icon=percentile" alt="shellyannissa29" />
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=shellyannissa&theme=onedark&row=1" alt="shellyannissa" />
+      <img src="https://github-profile-trophy.vercel.app/?username=shellyannissa&theme=onedark&row=2&column=3" alt="shellyannissa" />
     </a>
-  </div>
-</div>
+    </div>
