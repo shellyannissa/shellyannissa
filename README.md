@@ -1,8 +1,7 @@
 <p align="center">
 
-  Love to collaborate. Willing to adapt. What more could possibly be expected :)
+Love to collaborate. Willing to adapt. What more could one ask for.
 
-  
 </p>
 
 <!--
